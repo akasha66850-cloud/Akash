@@ -138,47 +138,50 @@ Frontend-focused developer with experience in the <strong>MERN stack</strong>, p
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🔭 Monocular Depth Estimation</h3>
-      <p>Deep learning model that predicts <strong>3D depth from a single 2D image</strong> — no stereo camera required. Built using convolutional neural networks and trained on real-world scene datasets.</p>
-      <p>
-        <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white"/>
-        <img src="https://img.shields.io/badge/OpenCV-%23white.svg?style=flat-square&logo=opencv&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/>
-      </p>
-      <ul>
-        <li>Single-camera depth perception using CNN encoder-decoder</li>
-        <li>Real-time inference with optimized model pipeline</li>
-        <li>Applications in robotics, AR, and autonomous systems</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🚇 Automated Document Management — Metro Rail</h3>
-      <p>A full-stack document management system designed for <strong>metro rail operations</strong>, automating the storage, retrieval, and lifecycle management of critical operational documents.</p>
+      <h3>🖥️ OS Algorithm Simulator</h3>
+      <p>An interactive simulator for visualizing and understanding core Operating System algorithms.</p>
       <p>
         <img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB"/>
-        <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white"/>
+        <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Tailwind_CSS-%2306B6D4.svg?style=flat-square&logo=tailwindcss&logoColor=white"/>
       </p>
       <ul>
-        <li>Role-based access control for multi-department use</li>
-        <li>Automated document versioning and audit trails</li>
-        <li>Built for real-world metro rail operational workflows</li>
+        <li>CPU Scheduling algorithm visualization</li>
+        <li>Memory Management and Page Replacement simulation</li>
+        <li>Deadlock Handling and interactive system visualization</li>
+      </ul>
+    </td>
+
+    <td width="50%" valign="top">
+      <h3>🌦️ Weather Prediction Web Application</h3>
+      <p>A web-based weather prediction application that uses historical weather data and machine learning models to generate weather-related predictions.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/>
+        <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=flat-square&logo=django&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+      </p>
+      <ul>
+        <li>Historical weather data preprocessing and analysis</li>
+        <li>Random Forest based prediction models</li>
+        <li>Django-based web interface for weather prediction</li>
       </ul>
     </td>
   </tr>
+
   <tr>
     <td colspan="2" valign="top">
-      <h3>🧬 Preliminary Diagnosis of Parenchymal Disease using Deep Learning</h3>
-      <p>An AI-powered medical diagnostic tool that performs <strong>preliminary detection of parenchymal lung disease</strong> from chest X-rays / CT scans using deep learning, assisting clinicians in early-stage identification.</p>
+      <h3>💻 Code Editor</h3>
+      <p>A web-based code editor designed for writing and executing programs in a convenient interactive environment.</p>
       <p>
-        <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white"/>
-        <img src="https://img.shields.io/badge/OpenCV-%23white.svg?style=flat-square&logo=opencv&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/>
+        <img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB"/>
+        <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white"/>
       </p>
       <ul>
-        <li>CNN-based classification model trained on medical imaging datasets</li>
-        <li>Grad-CAM visualizations to highlight disease regions for interpretability</li>
-        <li>Designed to support radiologists with fast, explainable preliminary screening</li>
+        <li>Interactive coding environment with a browser-based editor</li>
+        <li>Code writing and execution support</li>
+        <li>Designed for practicing and testing programs in an integrated interface</li>
       </ul>
     </td>
   </tr>
