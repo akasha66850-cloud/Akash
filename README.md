@@ -151,7 +151,6 @@ Frontend-focused developer with experience in the <strong>MERN stack</strong>, p
         <li>Deadlock Handling and interactive system visualization</li>
       </ul>
     </td>
-
     <td width="50%" valign="top">
       <h3>🌦️ Weather Prediction Web Application</h3>
       <p>A web-based weather prediction application that uses historical weather data and machine learning models to generate weather-related predictions.</p>
@@ -167,7 +166,6 @@ Frontend-focused developer with experience in the <strong>MERN stack</strong>, p
       </ul>
     </td>
   </tr>
-
   <tr>
     <td colspan="2" valign="top">
       <h3>💻 Code Editor</h3>
